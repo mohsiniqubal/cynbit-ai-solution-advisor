@@ -1,5 +1,5 @@
 # Cynbit AI Solution Advisor
-**AI/ML Engineer Intern assessment — Cynbit Technologies**
+**AI/ML Engineer Intern assessment - Cynbit Technologies**
 
 A small, runnable proof of concept that helps a prospective customer translate a business problem into relevant Cynbit service/product areas and a structured discovery brief.
 
